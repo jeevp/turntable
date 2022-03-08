@@ -1,5 +1,5 @@
 {
-  "name": "jeevp",
+  "name": "@jeevp/turntable",
   "description": "Turntable component",
   "author": "Jeev Prayaga",
   "keywords": [
@@ -9,7 +9,7 @@
     "spotify",
     "record"
   ],
-  "version": "0.1.1",
+  "version": "0.1.0",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
